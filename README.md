@@ -4,7 +4,7 @@
 </div>
 
 
-Technologies Used
+### Technologies Used
 
 ## Frontend:
 + HTML
