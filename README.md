@@ -18,7 +18,8 @@ Technologies Used
 + Python
 + Tornado Web Framework
 + Oracle Database
-+ Database Initialization:
+
+## Database Initialization:
 + The Oracle Database is used for storing user information, booking details, and other relevant data. 
 
 ## Features
