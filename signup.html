@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-2.2.4.js"
+        integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="/static/signinstyles.css">
+    <title>Cinema App</title>
+</head>
+
+<body>
+    <div class="form-wrapper">
+        <h1>Sign Up</h1>
+        <form method="POST" action="/signupcheck">
+            <div class="form-item">
+                <label for="name"></label>
+                <input type="text" name="name" required="required" placeholder="Name"></input>
+            </div>
+            <div class="form-item">
+                <label for="phone"></label>
+                <input type="text" name="phone" required="required" placeholder="Phone Number"></input>
+            </div>
+            <div class="form-item">
+                <label for="email"></label>
+                <input type="email" name="email" required="required" placeholder="Email Address"></input>
+            </div>
+            <div class="form-item">
+                <label for="password"></label>
+                <input type="password" name="password" required="required" placeholder="Password"></input>
+            </div>
+            <div class="button-panel">
+                <input  class="button" title="Sign Up" type="submit" value="Sign Up"></input>
+            </div>
+
+        </form>
+        <div class="form-footer">
+            <p><a href="/signin">Sign In</a></p>
+        </div>
+    </div>
+
+</body>
+
+</html>
