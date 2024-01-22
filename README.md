@@ -19,9 +19,6 @@ Technologies Used
 + Tornado Web Framework
 + Oracle Database
 
-## Database Initialization:
-+ The Oracle Database is used for storing user information, booking details, and other relevant data. 
-
 ## Features
 
 User Authentication:
@@ -56,6 +53,9 @@ Modal Interface:
 Booking History:
 
 + Users can view their booking history, showing past reservations.
+
+## Database Initialization:
++ The Oracle Database is used for storing user information, booking details, and other relevant data. 
 
 The database schema includes the following tables:
 
