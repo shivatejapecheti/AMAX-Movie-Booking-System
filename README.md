@@ -4,7 +4,7 @@
 </div>
 
 
-## Technologies Used
+Technologies Used
 
 ## Frontend:
 + HTML
@@ -83,4 +83,7 @@ User passwords are hashed using the MD5 hashing algorithm before storing them in
 3. Install the required Python packages: pip install tornado oracledb
 4. Run the Python script containing the Tornado application
 5. Access the web server at http://localhost:8888.
+
+## Future Enhancements
+Mention any planned enhancements or features that could be added in the future.
 
