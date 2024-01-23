@@ -3,6 +3,8 @@
  <div align="justify"> The AMAX Movie Booking System is a web-based application that enables users to browse and book movie tickets for various theaters. The application provides a user-friendly interface to select movies, view showtimes, choose seats, and confirm bookings. Key features include user authentication, booking history, and payment method selection.
 </div>
 
+![Homepage](https://github.com/shivatejapecheti/AMAX-Movie-Booking-System/assets/126412107/ff0cde0b-d626-4ee7-91d8-84de52b8a29e)
+
 
 ### Technologies Used
 
